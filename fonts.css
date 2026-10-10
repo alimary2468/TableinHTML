@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{
+    font-family: "Pacifico", cursive;
+}
+
+@font-face {
+    font-family:"Bungee", sans-serif ;
+    src: url('./assets/fonts/Bungee-Regular.ttf');
+}
+
+.fonts-1 {
+  font-family: "Bungee", sans-serif;
+}
